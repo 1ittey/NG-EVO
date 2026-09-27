@@ -100,13 +100,11 @@ See [`Changelog.md`](Changelog.md) for release history and update information. (
 
 ## 📄 License
 
-## 📄 License
-
 The original NG-EVO-created content contained in this repository is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
 
 This includes original NG-EVO patches, scripts, configurations, documentation, and other project files created by the NG-EVO project.
 
-**Third party content is not covered by the NG-EVO license.** Mods, assets, textures, meshes, scripts, tools, and other materials created by third-party authors remain subject to their respective licenses, permissions, and terms of use.
+**Third-party content is not covered by the NG-EVO license.** Mods, assets, textures, meshes, scripts, tools, and other materials created by third-party authors remain subject to their respective licenses, permissions, and terms of use.
 
 The inclusion or reference of third-party content in NG-EVO does not grant permission to redistribute that content outside the permissions provided by its original author.
 
