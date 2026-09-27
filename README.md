@@ -1,6 +1,6 @@
 ![NG-EVO](assets/cover.png)
 
-[Discord](https://discord.gg/Sg9yq5wk7) | [Changelog](Changelog.md) | Wabbajack: Coming Soon | Mod List & Load Order: Coming Soon
+[Discord](https://discord.gg/VqYdkDz44) | [Changelog](Changelog.md) | Wabbajack: Coming Soon | Mod List & Load Order: Coming Soon
 
 # NG-EVO
 ### Next Generation Enderal Visual Overhaul
@@ -88,7 +88,7 @@ Full credits and permissions information will be maintained separately.
 
 For installation help, bug reports, compatibility issues, development discussion, and general NG-EVO discussion:
 
-**Discord:** [Join the NG-EVO Discord](https://discord.gg/Sg9yq5wk7)
+**Discord:** [Join the NG-EVO Discord](https://discord.gg/VqYdkDz44)
 
 ---
 
