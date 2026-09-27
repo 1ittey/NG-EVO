@@ -94,7 +94,7 @@ For installation help, bug reports, compatibility issues, development discussion
 
 ## 📋 Changelog
 
-See [`Changelog.md`](Changelog.md) for release history and update information. (Coming Soon)
+See [`Changelog.md`](Changelog.md) for release history and update information.
 
 ---
 
