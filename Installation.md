@@ -1,4 +1,4 @@
-![NG-EVO](../assets/cover.png)
+![NG-EVO](assets/cover.png)
 
 # Installation
 
