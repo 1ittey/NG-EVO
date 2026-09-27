@@ -1,6 +1,6 @@
 ![NG-EVO](assets/cover.png)
 
-[Discord](https://discord.gg/VqYdkDz44) | [Changelog](Changelog.md) | Wabbajack: Coming Soon | [Mod List & Load Order](https://loadorderlibrary.com/lists/ng-evo-next-gen-enderal-visual-overhaul)
+[Discord](https://discord.gg/VqYdkDz44) | [Changelog](Changelog.md) | Wabbajack: Coming Soon | [ModList & Load Order](https://loadorderlibrary.com/lists/ng-evo-next-gen-enderal-visual-overhaul)
 
 # NG-EVO
 ### Next Generation Enderal Visual Overhaul
