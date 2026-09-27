@@ -4,8 +4,7 @@
 
 # NG-EVO
 ### Next Generation Enderal Visual Overhaul
-# NG-EVO
-### Next Generation Enderal Visual Overhaul
+
 
 **NG-EVO** is a visuals focused modlist for **Enderal: Forgotten Stories Special Edition**, built to modernize and enhance Enderal's visual presentation while preserving the identity and atmosphere of the original game.
 
