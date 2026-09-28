@@ -1,7 +1,7 @@
 [
   {
     "title": "NG-EVO (Next Generation Enderal Visual Overhaul)",
-    "description": "NG-EVO is a graphics focused overhaul for Enderal: Forgotten Stories Special Edition, aiming to bring modern visual improvements while preserving Enderal's original atmosphere and artistic identity.",
+    "description": "NG-EVO is a graphics focused overhaul for Enderal: Forgotten Stories Special Edition, aiming to bring modern visual improvements while preserving Enderal\u0027s original atmosphere and artistic identity.",
     "author": "daman399catros",
     "maintainers": [
       "github/1ittey"
@@ -10,7 +10,7 @@
     "official": false,
     "tags": [
       "SFW",
-      "Vanilla+",
+      "Vanilla\u002B",
       "Steam"
     ],
     "nsfw": false,
@@ -21,21 +21,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/1ittey/NG-EVO/main/assets/cover.png",
       "readme": "https://github.com/1ittey/NG-EVO/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Default.wabbajack_ad5b05c8-254c-4cd7-bde8-64639f5671b1",
+      "download": "https://authored-files.wabbajack.org/Default.wabbajack_89fb41b1-cf5d-45c1-9a7e-592f8bf74648",
       "machineURL": "NG-EVO",
       "discordURL": "https://discord.gg/VqYdkDz44",
       "websiteURL": "https://github.com/1ittey/NG-EVO",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "WMUIbkgyL6c=",
-      "Size": 805640795,
+      "Hash": "JXDWfeGBNUk=",
+      "Size": 807891574,
       "NumberOfArchives": 1314,
       "SizeOfArchives": 146466171314,
       "NumberOfInstalledFiles": 177895,
-      "SizeOfInstalledFiles": 214051054514,
-      "TotalSize": 360517225828
+      "SizeOfInstalledFiles": 214051054526,
+      "TotalSize": 360517225840
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-09-28T19:04:25.0790977Z",
+    "repositoryName": ""
   }
 ]
