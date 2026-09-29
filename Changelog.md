@@ -4,6 +4,15 @@ All notable changes to NG-EVO will be documented here.
 
 ---
 
+## [1.0.1] — 2026-09-29
+
+### Fixed
+
+- Fixed an issue where certain textures were missing or incorrectly displayed.
+- Corrected the affected texture configuration and assets.
+
+---
+
 ## [1.0.0] — Initial Release
 
 **Release Status:** Public Release
@@ -31,7 +40,7 @@ All notable changes to NG-EVO will be documented here.
 
 - Initial public distribution through Wabbajack.
 
-### Post Release Fixes
+### Post-Release Fixes
 
 - Fixed an issue where the game could fail to launch because the required Game Output folder was missing.
 - Updated the Wabbajack configuration to ensure Game Output is included correctly during installation.
