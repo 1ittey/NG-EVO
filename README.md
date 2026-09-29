@@ -60,7 +60,7 @@ Detailed installation instructions, requirements, configuration information, and
 
 > **NG-EVO is intended to be installed as a complete modlist. Individual modifications should not be removed or added without understanding their dependencies and compatibility implications.**
 
-**Wabbajack:** Coming Soon
+**Wabbajack:** NG-EVO is available through Wabbajack.
 
 ---
 
