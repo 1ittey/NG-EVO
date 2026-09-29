@@ -31,7 +31,7 @@ All notable changes to NG-EVO will be documented here.
 
 - Initial public distribution through Wabbajack.
 
-### Post-Release Fixes
+### Post Release Fixes
 
 - Fixed an issue where the game could fail to launch because the required Game Output folder was missing.
 - Updated the Wabbajack configuration to ensure Game Output is included correctly during installation.
