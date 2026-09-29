@@ -16,11 +16,9 @@ The project focuses on improving the game's **textures, materials, lighting, wea
 
 ## 🚀 Release Status
 
-**Current Status: Release Ready**
+**Current Status: Public Release**
 
-NG-EVO has completed its beta testing phase and is ready for its first public release.
-
-The first public release is being prepared for distribution through Wabbajack.
+NG-EVO has completed its beta testing phase and is now publicly available through Wabbajack.
 
 Future updates will focus on maintenance, compatibility, bug fixes, visual improvements, and continued refinement of the NG-EVO experience.
 
