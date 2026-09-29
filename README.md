@@ -10,7 +10,7 @@
 
 The project focuses on improving the game's **textures, materials, lighting, weather, terrain, vegetation, meshes, shaders, LODs, and overall visual fidelity** through a carefully curated collection of mods, patches, and custom configurations.
 
-> **NG-EVO is a graphics overhaul — not a gameplay overhaul.**
+> **NG-EVO is primarily a graphics overhaul, with a small number of optional quality-of-life features.**
 
 ---
 
@@ -38,6 +38,19 @@ Future updates will focus on maintenance, compatibility, bug fixes, visual impro
 - Enderal specific fixes and visual adjustments
 - A curated and tested visual experience rather than a collection of unrelated graphics mods
 
+### 🧭 Optional Fast Travel
+
+NG-EVO includes **Enderal SE Dynamic Fast Travel**, giving players the option to use fast travel in Enderal.
+
+Vanilla Enderal does not provide traditional fast travel, as the game was designed around travelling through the world on foot and experiencing its environments and locations along the way.
+
+NG-EVO includes **Fast Travel Patch.esp**, which ensures the fast travel system works correctly with the rest of the modlist.
+
+If you prefer the vanilla approach to travelling, fast travel can be completely disabled by disabling both:
+
+- **Enderal SE Dynamic Fast Travel** - (Disable the mod on the left side of MO2)
+- **Fast Travel Patch.esp** - (Disable the plugin on the right side of MO2)
+
 ---
 
 ## 🎯 Project Philosophy
@@ -48,7 +61,7 @@ NG-EVO is designed around one principle:
 
 The goal is not to replace the game's identity with a generic Skyrim visual overhaul. Mods and configurations are selected, patched, or removed based on how well they fit Enderal's environments, architecture, atmosphere, and artistic direction.
 
-Gameplay, quests, progression, combat, and other core gameplay systems are outside the scope of NG-EVO.
+Gameplay, quests, progression, combat, and major gameplay systems are outside the scope of NG-EVO. A small number of optional quality-of-life features may be included where they complement the overall NG-EVO experience.
 
 ---
 
@@ -56,11 +69,9 @@ Gameplay, quests, progression, combat, and other core gameplay systems are outsi
 
 NG-EVO is distributed as a **Wabbajack modlist**.
 
-Detailed installation instructions, requirements, configuration information, and troubleshooting documentation will be provided with the public release.
+Detailed installation instructions, requirements, configuration information, and troubleshooting documentation are available in the [Installation Guide](Installation.md).
 
 > **NG-EVO is intended to be installed as a complete modlist. Individual modifications should not be removed or added without understanding their dependencies and compatibility implications.**
-
-**Wabbajack:** NG-EVO is available through Wabbajack.
 
 ---
 
