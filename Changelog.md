@@ -2,6 +2,26 @@
 
 All notable changes to NG-EVO will be documented here.
 
+## [1.0.2] — 2026-10-03
+
+**Save Safety:** Save Safe
+
+### Changed
+
+- Reduced breast and butt size on NPCs for a more balanced appearance.
+- Slightly increased interior brightness across the game.
+- Added new PBR upper class furniture from Sothasimp's latest furniture mod.
+
+### Removed
+
+- Removed Medieval Candlehorns and Sconces due to an issue causing unusual flame flickering.
+
+### Fixed
+
+- Added Candle Lag Fix to address candle lighting performance and responsiveness issues.
+
+---
+
 ---
 
 ## [1.0.1] — 2026-09-29
