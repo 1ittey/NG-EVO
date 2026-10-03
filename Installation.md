@@ -34,6 +34,24 @@ You will need sufficient free space for:
 - Wabbajack's downloaded archives
 - The completed NG-EVO installation
 
+## 💾 Storage Requirements
+
+NG-EVO requires a significant amount of free storage during installation.
+
+| Requirement | Size |
+|---|---:|
+| Wabbajack Download Folder | **~135 GB** |
+| Installed NG-EVO | **~196 GB** |
+| Maximum Space Required During Installation | **~331 GB** |
+
+The **~331 GB** figure represents the combined space required for the Wabbajack download files and the installed NG-EVO modlist.
+
+After the installation has completed successfully, the **Wabbajack download folder can be safely deleted** to free approximately **135 GB** of storage.
+
+This leaves the installed NG-EVO modlist using approximately **196 GB** of storage.
+
+> **Recommended:** Make sure you have at least **331 GB of free space** available before beginning the installation.
+
 An **SSD is strongly recommended** for NG-EVO. Installing the modlist on an SSD will provide faster installation and loading times.
 
 We recommend keeping your Wabbajack download folder separate from your NG-EVO installation folder. The download folder can be reused for future Wabbajack installations.
