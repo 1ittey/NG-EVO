@@ -2,6 +2,18 @@
 
 All notable changes to NG-EVO will be documented here.
 
+## [1.0.3] — 2026-10-04
+
+**Save Safety:** Save Safe
+
+### Fixed
+
+- Fixed a missing texture for the Nehrimese Guard armor.
+- Fixed an issue where Tealor Arantheal was not wearing his intended armor.
+- Fixed missing pants on Calia Sakaresh.
+
+---
+
 ## [1.0.2] — 2026-10-03
 
 **Save Safety:** Save Safe
@@ -19,8 +31,6 @@ All notable changes to NG-EVO will be documented here.
 ### Fixed
 
 - Added Candle Lag Fix to address candle lighting performance and responsiveness issues.
-
----
 
 ---
 
