@@ -21,24 +21,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/1ittey/NG-EVO/main/assets/cover.png",
       "readme": "https://github.com/1ittey/NG-EVO/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Default.wabbajack_0ca3a3ca-7da4-4c90-95ba-ee8b20bdb52f",
+      "download": "https://authored-files.wabbajack.org/Default.wabbajack_dfd0c16c-b3a7-4960-a2ea-21f3bef0eaa9",
       "machineURL": "NG-EVO",
       "discordURL": "https://discord.gg/VqYdkDz44",
       "websiteURL": "https://github.com/1ittey/NG-EVO",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "iFC427V9EqM=",
-      "Size": 792874564,
+      "Hash": "WptsXI9hb4s=",
+      "Size": 792875911,
       "NumberOfArchives": 1313,
       "SizeOfArchives": 144476042653,
       "NumberOfInstalledFiles": 176121,
-      "SizeOfInstalledFiles": 209626198346,
-      "TotalSize": 354102240999
+      "SizeOfInstalledFiles": 209626201233,
+      "TotalSize": 354102243886
     },
     "version": "1.0.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-10-04T16:54:29.0127872Z",
+    "dateUpdated": "2026-10-04T17:28:44.5487487Z",
     "repositoryName": ""
   }
 ]
