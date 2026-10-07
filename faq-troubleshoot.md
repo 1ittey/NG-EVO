@@ -32,7 +32,7 @@ You should be moved directly to Yuslan, allowing the quest to continue.
 ---
 
 
-## :desktop: Game Resolution / Display Issues
+## Game Resolution / Display Issues
 
 Problem:
 If your game resolution is incorrect or the game is not displaying correctly, you may need to change the resolution in SSE Display Tweaks.
