@@ -2,6 +2,37 @@
 
 All notable changes to NG-EVO will be documented here.
 
+## [1.0.4] — 2026-10-10
+
+**Save Safety:** Not Save Safe
+
+### Added
+
+- Added Portal Strict Lights Patcher Framework (SKSE).
+- Added Shadow Scene Node Crash Fix.
+- Added Publican's Perch - BOS Bar and Counter Replacer, including an Enderal compatibility patch created for NG-EVO and published on Nexus Mods for public use.
+- Added PBR textures for Publican's Perch - BOS Bar and Counter Replacer.
+- Added Samples of Stools - A Barstool Replacer, including an Enderal compatibility patch created for NG-EVO and published on Nexus Mods for public use.
+- Added Havok Solver Crash Fix.
+- Added Variadic Collision Dynamics.
+
+### Updated
+
+- Updated Show Player in Inventory.
+- Updated Vel'dun UI Enderal.
+- Updated Address Library.
+- Updated LeanMesh Series - Faultier's PBR Skyrim AIO - Optimized Meshes.
+- Replaced Enderal NPCs Overhaul with Modern NPC Overhaul.
+
+### Changed
+
+- Changed Jespar's clothing to better suit his character.
+- Removed Calia's high heels during combat.
+- Removed Lishari's high heels.
+- Removed Cached Recursive Directory Walk.
+
+---
+
 ## [1.0.3] — 2026-10-04
 
 **Save Safety:** Save Safe
