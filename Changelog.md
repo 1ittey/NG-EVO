@@ -2,6 +2,16 @@
 
 All notable changes to NG-EVO will be documented here.
 
+## [1.2.1] — 2026-10-18
+
+**Save Safety:** Save Safe
+
+### Hotfix
+
+- Fixed the armor assignment for Signet Leader Jorek Bartarr and Natara Dal'Veram. Both NPCs now wear their intended armor.
+
+---
+
 ## [1.2] — 2026-10-18
 
 **Save Safety:** Probably Save Safe
