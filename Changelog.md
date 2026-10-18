@@ -2,6 +2,39 @@
 
 All notable changes to NG-EVO will be documented here.
 
+## [1.2] — 2026-10-18
+
+**Save Safety:** Probably Save Safe
+
+### Added
+
+- Added Reticle Arcs.
+- Added Breathe Arcs.
+- Added Highlight Quest Marker.
+- Added Vel UI RaceMenu DIP Patch.
+- Reintroduced Medieval Candlehorns and Sconces.
+- Added an updated Havok Solver Crash Fix.
+
+### Changed
+
+- Updated the Relight configuration.
+- Reworked Holy Order armor distribution for better consistency, replacing Holy Order Armor and Silver Armor with Peacekeeper Armor.
+- Changed the armor worn by guards in Ark and Riverville.
+- Changed Calia's battle armor.
+- Changed the Apothecarius robes.
+
+### Removed
+
+- Removed Upper-Class Furniture Upgrade by Sothasimp.
+- Removed Common Table Replacer and Vanilla Table Replacer for better visual consistency.
+
+### Bug Fixes
+
+- Fixed the issue causing the player to fall from the Ark Myrad Tower.
+- Fixed the issue where Sirius would get stuck sitting down during the A New Life quest.
+
+---
+
 ## [1.0.4] — 2026-10-10
 
 **Save Safety:** Not Save Safe
