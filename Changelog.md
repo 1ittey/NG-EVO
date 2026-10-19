@@ -2,6 +2,16 @@
 
 All notable changes to NG-EVO will be documented here.
 
+## [1.2.2] — 2026-10-19
+
+**Save Safety:** Save Safe
+
+### Added
+
+- Restored the custom Improved Alternate Conversation Camera preset that was accidentally removed in the previous update.
+
+---
+
 ## [1.2.1] — 2026-10-18
 
 **Save Safety:** Save Safe
