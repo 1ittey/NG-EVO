@@ -98,7 +98,7 @@ We recommend placing the pagefile on an SSD with sufficient free space.
 
 NG-EVO requires the **Steam version of Enderal: Forgotten Stories Special Edition**.
 
-Install Enderal through Steam before beginning the Wabbajack installation.
+Install Enderal through Steam and launch it once before beginning the Wabbajack installation.
 
 ### Avoid Windows Protected Folders
 
