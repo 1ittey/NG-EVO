@@ -1,5 +1,31 @@
 # :question: FAQ & Troubleshooting
 
+---
+
+## Steam Updated Enderal — Wabbajack Game Files Check Fails
+
+**Problem:**
+
+Steam updated Enderal, so your game files no longer match what Wabbajack expects when building the Stock Game folder. Reinstalling the game through Steam does not resolve the issue because Steam downloads the same updated files.
+
+**Temporary Workaround:**
+
+1. In your Steam Library, right-click **Enderal: Forgotten Stories (Special Edition)** and select **Properties...**
+2. Go to **Game Versions & Betas**.
+3. Select `enderal_2.0.12.4`.
+4. Wait for Steam to finish downloading. Check the Downloads page to make sure the download is complete.
+
+![Select Enderal Version](assets/select-enderal-version.png)
+
+5. Return to Wabbajack and click **I fixed it, check again**.
+6. The Game Files check should now pass. Continue the installation.
+
+**Future Update:**
+
+NG-EVO will be updated to support the latest Enderal version once the required SKSE mods and their dependencies have been updated and compatibility has been confirmed.
+
+---
+
 ## :wrench: A New Life — Sirius Won't Move
 
 Problem:
