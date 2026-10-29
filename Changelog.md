@@ -2,6 +2,48 @@
 
 All notable changes to NG-EVO will be documented here.
 
+## [1.3] — 2026-10-30
+
+**Save Safety:** Not Save Safe
+
+### Added
+
+- Added Rally Mushroom, replacing Fancy Glowy Mushroom for more consistent lighting and textures.
+- Added Save & Load Accelerator for SKSE Cosaves (S.L.A.C.K.) to improve save and load handling.
+- Re-added Cached Recursive Directory Walk SE for improved file-system operations.
+
+### Visual Improvements
+
+- Reworked the Relight configuration to add lighting to Blackreach's giant mushrooms.
+- Improved interior lighting by slightly increasing brightness.
+- Improved landscape texture blending for more natural and seamless transitions between landscape textures.
+- Updated Vanaheimr Landscape.
+- Replaced Better Dynamic Snow with a more modern setup using Simplicity of Snow, Sulfur, Ash and Moss solutions.
+- Updated Vanaheimr to take advantage of the new snow and landscape setup.
+- Changed Daddy Ugly's outfit.
+
+### Performance Improvements
+
+- Improved distant terrain and object visuals for a more cohesive world. Regenerated LODs to further improve distant terrain and object visuals.
+- Integrated S.L.A.C.K. to improve save and load handling for SKSE cosaves.
+
+### Gameplay Balance Tweaks
+
+- Made gameplay balance adjustments to improve overall balance.
+
+### Removed
+
+- Removed Fancy Glowy Mushroom in favor of Rally Mushroom for more consistent lighting and textures.
+- Removed Apocalypse because it was introducing numerous spell books into levelled lists.
+- Removed CBBE Feet And Hands Textures SSE to correct neck seams.
+- Removed Better Dynamic Snow in favor of the Simplicity of Snow, Sulfur, Ash and Moss setup.
+
+### Bug Fixes
+
+- Fixed multiple issues that were causing errors during LOD generation.
+
+---
+
 ## [1.2.2] — 2026-10-19
 
 **Save Safety:** Save Safe
