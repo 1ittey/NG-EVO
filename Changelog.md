@@ -2,6 +2,21 @@
 
 All notable changes to NG-EVO will be documented here.
 
+## [1.3.3] — 2026-11-17
+
+**Save Safety:** Save Safe
+
+### Added
+- **The Fourth Wall - Eye Contact:** Adds eye tracking, allowing the player and NPCs to make direct eye contact with the camera.
+- **Modified Optimal Gaze NG:** Adjusts NPC gaze angles for more natural-looking eye movements, with optional player support.
+- **Crash Fix Compendium:** Adds a collection of targeted engine-level fixes to address various game crashes.
+- **Enderal - One Moon Only:** Removes Secunda, the second moon, from Enderal's night sky.
+- **AURORA S.E.:** Replaces vanilla aurora textures with improved visuals for the northern lights.
+- **B.O.O.B.I.E.S (aka Immersive Icons) - BOOKS:** Adds distinct inventory icons for books, including spell books, skill books, maps, and other special books.
+
+### Removed
+- **[Mod name](https://www.nexusmods.com/enderalspecialedition/mods/216):** Removed because it caused issues with the world map after generating terrain LODs with xLODGen.
+
 ## [1.3] — 2026-10-30
 
 **Save Safety:** Not Save Safe
