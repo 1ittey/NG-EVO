@@ -15,7 +15,7 @@ All notable changes to NG-EVO will be documented here.
 - **B.O.O.B.I.E.S (aka Immersive Icons) - BOOKS:** Adds distinct inventory icons for books, including spell books, skill books, maps, and other special books.
 
 ### Removed
-- **[Mod name](https://www.nexusmods.com/enderalspecialedition/mods/216):** Removed because it caused issues with the world map after generating terrain LODs with xLODGen.
+- **[Enderal SE - Paper Map Fix (xLodGen)](https://www.nexusmods.com/enderalspecialedition/mods/216):** Removed because it caused issues with the world map after generating terrain LODs with xLODGen.
 
 ## [1.3] — 2026-10-30
 
