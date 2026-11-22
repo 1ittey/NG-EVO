@@ -2,6 +2,18 @@
 
 All notable changes to NG-EVO will be documented here.
 
+## [1.3.4] — 2026-11-22
+
+**Save Safety:** Save Safe
+
+### Added
+- **Pickled PBR AIO:** Overhauls Ark and several other areas with new PBR and Complex Parallax assets.
+- **Bonebound:** Adds visual variations to the Fleshless Lost Ones, introducing different skeleton types.
+- **[Intro Video High Quality Remake](https://www.nexusmods.com/enderalspecialedition/mods/1184):** Replaces the original low-quality intro video with a high-quality remake.
+
+### Changed
+- **BodySlide:** Updated outfit meshes to better match the intended body shape.
+
 ## [1.3.3] — 2026-11-17
 
 **Save Safety:** Save Safe
